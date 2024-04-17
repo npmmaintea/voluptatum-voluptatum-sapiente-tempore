@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmaintea/voluptatum-voluptatum-sapiente-tempore",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,38 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmmaintea/voluptatum-voluptatum-sapiente-tempore.git"
   },
   "dependencies": {
+    "@npmmaintea/aliquam-accusantium-debitis-nulla": "^1.0.0",
+    "@npmmaintea/architecto-labore-numquam-eligendi": "^1.0.0",
+    "@npmmaintea/assumenda-quos-magni-velit": "^1.0.0",
+    "@npmmaintea/at-eaque-sapiente-dolores": "^1.0.0",
+    "@npmmaintea/cautious-waddle": "^1.0.0",
+    "@npmmaintea/consequatur-laudantium-nihil-modi": "^1.0.0",
+    "@npmmaintea/deserunt-nulla-doloribus-rerum": "^1.0.0",
+    "@npmmaintea/dicta-minus-harum-quam": "^1.0.0",
+    "@npmmaintea/dolor-ullam-incidunt-suscipit": "^1.0.0",
+    "@npmmaintea/dolorem-optio-necessitatibus-magnam": "^1.0.0",
+    "@npmmaintea/ea-debitis-ab-adipisci": "^1.0.0",
+    "@npmmaintea/earum-amet-distinctio-voluptatibus": "^1.0.0",
+    "@npmmaintea/et-nihil-quos-perferendis": "^1.0.0",
+    "@npmmaintea/expedita-doloremque-vitae-cupiditate": "^1.0.0",
+    "@npmmaintea/fugit-voluptatem-placeat-delectus": "^1.0.0",
+    "@npmmaintea/glowing-broccoli": "^1.0.0",
+    "@npmmaintea/in-reprehenderit-in-deleniti": "^1.0.0",
+    "@npmmaintea/ipsa-alias-voluptatem-aperiam": "^1.0.0",
+    "@npmmaintea/ipsum-cupiditate-dolor-voluptates": "^1.0.0",
+    "@npmmaintea/iusto-quod-laborum-at": "^1.0.0",
+    "@npmmaintea/magni-quo-maiores-facere": "^1.0.0",
+    "@npmmaintea/officiis-iusto-illo-enim": "^1.0.0",
+    "@npmmaintea/potential-octo-dollop": "^1.0.0",
+    "@npmmaintea/psychic-doodle": "^1.0.0",
+    "@npmmaintea/quae-nemo-enim-quidem": "^1.0.0",
+    "@npmmaintea/quam-pariatur-minima-numquam": "^1.0.0",
+    "@npmmaintea/sunt-minima-blanditiis-placeat": "^1.0.0",
+    "@npmmaintea/vitae-repudiandae-dicta-ducimus": "^1.0.0",
+    "@npmmaintea/voluptatem-sed-voluptates-ducimus": "^1.0.0",
+    "@npmmaintea/voluptates-impedit-atque-nostrum": "^1.0.0"
   }
 }
